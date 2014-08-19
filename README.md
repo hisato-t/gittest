@@ -5,5 +5,3 @@ lili
 kiki
 kk
 huhu
-jiji
-huhu
